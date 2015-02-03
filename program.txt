@@ -1,0 +1,4 @@
+
+- change each puncuation to "!"
+-any words containing "ill" will be change to strawberry
+-add start to the beginning of the sentence
