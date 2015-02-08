@@ -1,4 +1,4 @@
 
-- change each puncuation to "!"
--any words containing "ill" will be change to strawberry
+- change each period to "!"
+-any common word will be changed to a noun
 -add start to the beginning of the sentence
