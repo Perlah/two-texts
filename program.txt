@@ -1,4 +1,4 @@
 
-- change each period to "!"
+- change the first two sentences with the last two
 -any common word will be changed to a noun
 -add start to the beginning of the sentence
